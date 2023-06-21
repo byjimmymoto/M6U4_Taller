@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import List
+import numpy as np
 import joblib
 
 # Reemplace esto con su implementación:
